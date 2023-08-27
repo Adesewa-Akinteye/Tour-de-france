@@ -1,6 +1,6 @@
 
 ##  Goal
-The goal of this analysis is to increase the race's popularity around the world by creating an infographic-style visual to educate new viewers, highlight the magnitude of the event, and build anticipation for this year's race.
+The goal of this analysis is mainly to increase the race's popularity around the world by creating an infographic-style visual to educate new viewers, highlight the magnitude of the event, and build anticipation for this year's race.
 
 
 ##  About the dataset
